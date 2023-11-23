@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\bin\Debug\net6.0\LSP.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\bin\Debug\net6.0\LSP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\bin\Debug\net6.0\LSP.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\refint\LSP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\LSP\obj\Debug\net6.0\ref\LSP.dll
