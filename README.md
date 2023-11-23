@@ -6,5 +6,5 @@ O principio de substituição de Liskov ensina que uma classe filha deve ser cap
 
 O benefício de se utilizar o princípio de substituição é garantir que a funcionalidade da classe mãe será inalterada, e que suas subclasses possam servir de substitutas.
 
-## Para mais detalhes acesso o artigo abaixo:
+## Para mais detalhes acesse o artigo abaixo:
 [Artigo Liskov Substitution Principle](https://medium.com/@JoaoVictorCarneiroAureliano/liskov-substitution-principle-lsp-50cd65303f85)
